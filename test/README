@@ -42,3 +42,8 @@ CMD:
 
  -> Caso seja feito Download ou clonagem do projeto_web, adicionar diretório "node_modules" para rodar.
  Este diretório não é uppado no push e github não permite add diretório com mais de 100 arquivos.
+
+-----------Extensions-------------
+
+Arduino for VSCode
+PlatformIO e Python (inclui automaticamente)
