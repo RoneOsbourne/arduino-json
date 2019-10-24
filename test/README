@@ -1,0 +1,26 @@
+
+Este diretório é destinado a testes de unidade PIO e testes de projeto.
+
+O Teste de Unidade é um método de teste de software pelo qual unidades individuais de
+código fonte, conjuntos de um ou mais módulos do programa MCU, juntamente com
+dados de controle, procedimentos de uso e procedimentos operacionais, são testados para
+determinar se eles são adequados para uso. O teste de unidade encontra problemas cedo
+no ciclo de desenvolvimento.
+
+Mais informações sobre o teste de unidade PIO:
+- https://docs.platformio.org/page/plus/unit-testing.html
+
+
+------------Mocky.io------------ 
+
+{
+"led off" : 0,
+"led on" : 1
+}
+------------Prompt-------------- 
+
+>ping 192.168.0.10 - verificar se esta ok 
+>Entrar no diretório do projeto (cd...)
+>npm install -g http-server
+>http-server . -p 80 (starta o http-server 192.168.0.1:80)
+
